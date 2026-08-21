@@ -11,6 +11,9 @@ Nome do grupo: 4Minds
 Participantes:
 
 Davi Robson
+
 Paloma Silva
+
 Daniela Marques
+
 Isabela Jorge
